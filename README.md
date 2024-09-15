@@ -1,0 +1,6 @@
+- 👋 Hi, I’m **Aakash Kumar**  
+- 👀 I’m interested in **frontend development**, particularly building responsive and high-performance web applications using **React.js**, **Next.js**, and **Figma** for UI/UX design.  
+- 🌱 I’m currently learning more about **performance optimization techniques** and **advanced Next.js** features to enhance web application efficiency.  
+- 💞️ I’m looking to collaborate on **frontend projects**, open-source contributions, and innovative web applications that push the boundaries of user experience.  
+- 📫 How to reach me: **[akkiikashyap276@gmail.com](mailto:akkiikashyap276@gmail.com)**  
+- ⚡ Fun fact: When I’m not coding, you’ll find me **analyzing stock market charts**, **practicing MMA**, or watching cricket!  
